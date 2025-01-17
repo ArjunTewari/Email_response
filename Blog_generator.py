@@ -46,7 +46,7 @@ st.markdown(
     """
 )
 
-st.write("Link to the GitHub Repo : ")
+st.write("Link to the GitHub Repo : https://github.com/ArjunTewari/Email_response/blob/main/Blog_generator.py")
 
 st.markdown("## Enter your OPENAI API Key")
 
